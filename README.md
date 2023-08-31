@@ -15,6 +15,6 @@ Bryan in emojis: ⚡️🤖🧬🗽📸🍿☕️🎤🏛️🐿️
 
 ### Remarks 👀
 
-Most of my repositories are set private to prevent any copyright issues.  
+Most of my repositories are set private to prevent any copyright and/or fairness issues.  
 Visit my [homepage](https://bramyeon.github.io) to know more about me.  
 You can also find my contact information there!
