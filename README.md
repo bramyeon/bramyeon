@@ -9,7 +9,7 @@ Hello, my name is Bryan. I am a senior undergraduate student at [**KAIST**](http
 
 I am interested in the algorithms and applications (especially in bioinformatics) of machine learning and deep learning (ML/DL), data science, and big data analysis. My current work focuses on the usage of denoising diffusion probabilistic models (DDPMs) for <i>in-silico</i> protein engineering, specifically antigen-conditioned antibody design. 
 
-Apart from these, I enjoy traveling, taking pictures, watching movies, making hand-drip coffee, singing, and visiting art museums in my free time. I **LOVE** my sugar gliders, check them out [here](https://www.notion.so/Sugar-Gliders-9d58a3da0a5f46ab93b488fc1931af82?pvs=21).
+Apart from these, I enjoy traveling, taking pictures, watching movies, making hand-drip coffee, singing, and visiting art museums in my free time. I **LOVE** my sugar gliders, check them out [here](https://bramyeon.notion.site/Sugar-Gliders-9d58a3da0a5f46ab93b488fc1931af82).
 
 Bryan in emojis: ⚡️🤖🧬🗽📸🍿☕️🎤🏛️🐿️
 
