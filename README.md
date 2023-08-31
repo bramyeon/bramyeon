@@ -13,7 +13,7 @@ Apart from these, I enjoy traveling, taking pictures, watching movies, making ha
 
 Bryan in emojis: ⚡️🤖🧬🗽📸🍿☕️🎤🏛️🐿️
 
-### Disclaimers 👀
+### Remarks 👀
 
 Most of my repositories are set private to prevent any copyright issues.  
 Visit my [homepage](https://bramyeon.github.io) to know more about me.  
