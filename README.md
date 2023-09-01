@@ -16,5 +16,5 @@ Bryan in emojis: ⚡️🤖🧬🗽📸🍿☕️🎤🏛️🐿️
 ### Remarks 👀
 
 Most of my repositories are set private to prevent any copyright and/or fairness issues.  
-Visit my [homepage](https://bramyeon.github.io) to know more about me.  
+Visit my [homepage](https://bramyeon.notion.site/Bryan-Nathanael-Wijaya-273bfa00fa42422c93a217836e8c9a98?pvs=4) to know more about me.  
 You can also find my contact information there!
