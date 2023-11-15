@@ -10,6 +10,4 @@ I am an undergraduate student at [**KAIST**](https://kaist.ac.kr), majoring in [
 - Data science
 - Large language models (LLMs)
 
-Apart from these, I enjoy traveling, photography, watching movies, making hand-drip coffee, singing, and visiting art museums in my free time. I **LOVE** my sugar gliders, check them out [here](https://bramyeon.notion.site/Sugar-Gliders-9d58a3da0a5f46ab93b488fc1931af82).
-
 Visit my [homepage](https://bramyeon.notion.site/Bryan-Nathanael-Wijaya-273bfa00fa42422c93a217836e8c9a98?pvs=4) to know more about me!  
