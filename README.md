@@ -10,4 +10,4 @@ I am an undergraduate student at [**KAIST**](https://kaist.ac.kr), majoring in [
 - Data science
 - Large language models (LLMs)
 
-Visit my [homepage](https://bramyeon.notion.site/Bryan-Nathanael-Wijaya-273bfa00fa42422c93a217836e8c9a98?pvs=4) to know more about me!  
+Visit my [homepage](https://bramyeon.notion.site/273bfa00fa42422c93a217836e8c9a98?pvs=4) to know more about me!  
