@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I am an undergraduate student at [**KAIST**](https://kaist.ac.kr), majoring in [**Electrical Engineering**](https://ee.kaist.ac.kr) with a specially designated major in Artificial Intelligence (AI) and a minor in [**Chemical and Biomolecular Engineering**](https://cbe.kaist.ac.kr). My research area englobes various areas of AI, especially: 
+I am an undergraduate student at [KAIST](https://kaist.ac.kr), majoring in [Electrical Engineering](https://ee.kaist.ac.kr) with a specially designated major in Artificial Intelligence (AI) and a minor in [Chemical and Biomolecular Engineering](https://cbe.kaist.ac.kr). My research area englobes various areas of AI, especially: 
 - generative AI for bioinformatics and computer vision
 - data science
 - large language models (LLMs)
