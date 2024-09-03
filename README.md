@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-I am a master’s student in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://kaist.ac.kr) and a member of the [Data Science Laboratory (DSLAB)](https://ds.ibs.re.kr).
+I am a master’s student in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://kaist.ac.kr) and a member of the [DSLAB](https://ds.ibs.re.kr), [KCVL](https:sites.google.com/view/tkkim), and [LIPDS](https://kaistlipds.creatorlink.net/).
 My research interest encompasses various applied AI areas, including generative AI for protein engineering, AI for social good, data science for humanity, and large language models. 
 Visit [bramyeon.github.io](https://bramyeon.github.io) to learn more about me!
 
